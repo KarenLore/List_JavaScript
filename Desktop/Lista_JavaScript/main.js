@@ -4,7 +4,7 @@ import contenedorTareas from "./componentes/contenedorTareas.js"
 import titulo from "../componentes/titulo.js";
 import tareaInput from "../componentes/tareaInput.js";
 import root from "./componentes/root.js";
-import Tarea from "./clases/Tarea.js";
+import Tarea from "./class/Tarea.js";
 import botonEliminarTodas from "./componentes/eliminartodas.js";
 
 const miTarea = new Tarea("Hola mundo");
